@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 arifuddin ghdtu
 dafaf
+=======
+arifuddin
+>>>>>>> parent of 49ced68... tambah text
