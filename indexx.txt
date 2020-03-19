@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 arif
+adik
+tas
+=======
+<<<<<<< HEAD
+arifuddin ghdtu
+dafaf
+=======
+arifuddin
+>>>>>>> parent of 49ced68... tambah text
+>>>>>>> parent of c30c951... ini
